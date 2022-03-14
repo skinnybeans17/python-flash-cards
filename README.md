@@ -4,7 +4,7 @@ This project that I made is a study guide website with flash cards that's relate
 
 ## How this site is used
 
-First, you will go on the website, and then you'll see eight different topics on the main page. Each topic has it's own page, and you can go to each of those pages by clicking on the 'Learn More' button underneath each of the topic. There,you'll then see sub-topics related to the main subject you chose. When you click on the 'Learn More' underneath each of the sub-topics, you will see questions related to each of the sub-topics, around three or four, sometimes five, for the topic as well as answers to each of the questions as well. This website is to be used as a study guide for people who don't know much about Python or want to learn more about it to have a better understanding of it and each of the concepts related to it as well.
+First, you will go on the website, and then you'll see eight different topics on the main page. Each topic has it's own page, and you can go to each of those pages by clicking on the 'Learn More' button underneath each of the topic. There,you'll then see sub-topics related to the main subject you chose. When you click on the 'Learn More' underneath each of the sub-topics, you will see questions related to each of the sub-topics, around three or four, sometimes just two, and in rare cases only one, for the topic as well as answers to each of the questions as well. This website is to be used as a study guide for people who don't know much about Python or want to learn more about it to have a better understanding of it and each of the concepts related to it as well.
 
 ## Inspiration for website
 
