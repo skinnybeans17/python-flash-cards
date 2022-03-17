@@ -13,6 +13,13 @@ First, you will go on the website, and then you'll see eight different topics on
 
 I wanted to make this website because of me learning about coding for over a half-decade (five years) now. In particular, I wanted to base this site around Python and the concepts around it that I was learning about during my first semester here at college and a little bit before that in weekly classes I took before I came to Make School. During the winter break, I bought some flash cards related to Python, and reading those flash cards gave me an idea to base those cards around those subjects in the cards. I really liked this set of flash cards a lot, that I wanted to recreate in HTML and CSS. I did the first part of the set before, now I'm doing the rest of this educational set of cards!
 
+## Screenshots of app
+
+![main menu](https://github.com/skinnybeans17/python-flash-cards/blob/main/images/Screen%20Shot%202022-03-17%20at%201.44.15%20PM.png)
+![one of the topics](https://github.com/skinnybeans17/python-flash-cards/blob/main/images/Screen%20Shot%202022-03-17%20at%201.47.17%20PM.png)
+![one of the questions](https://github.com/skinnybeans17/python-flash-cards/blob/main/images/Screen%20Shot%202022-03-17%20at%201.48.38%20PM.png)
+
+
 ## Original info for flash cards credit
 
 Python Flash Cards: Syntax, Concepts, and Examples (c) Eric Matthes, 2019. Credit goes to him for helping me out with his set of flashcards for this project!
